@@ -1,0 +1,25 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    color: blanchedalmond;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#about {
+    color: aqua;
+    background-color: brown;
+}
+
+.profile {
+    background-color: black;
+}
+
+li:hover{
+    font-weight: 700;
+}
